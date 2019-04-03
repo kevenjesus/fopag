@@ -1,13 +1,12 @@
 import React, { Component } from 'react';
 import './App.css';
-
-import Button from './utils/Button';
+import Widget from './components/Widget'
 
 class App extends Component {
   render() {
     return (
       <div className="App">
-          <Button size="lg">Ola tudo bem</Button>
+          <Widget titulo="Admissão"/>
       </div>
     );
   }

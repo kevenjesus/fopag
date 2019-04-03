@@ -1,0 +1,10 @@
+.item{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 3px 0;
+}
+.item span{
+    margin: 0 25px;
+}

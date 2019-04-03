@@ -1,0 +1,11 @@
+  .widgetTittle{
+    background-color: #1B1C21;
+    color: #c04a09;
+    padding: 10px;
+  }
+  .widget{
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  }
+  .widgetItens{
+    background-color: #F6F6F6;
+  }

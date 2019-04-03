@@ -1,0 +1,24 @@
+.btn {
+    background-color: #1B1C21;
+    color: #fff;
+    border: 0;
+    border: 0;
+    margin-right: 5px;
+}
+.icon {
+    width: 8px;
+}
+
+.details {
+    background-color: #F6F6F6;
+    padding: 10px;
+}
+
+table,
+tr {
+    width: 100%;
+}
+
+tr:nth-child(n3) {
+    background: #fff;
+}

@@ -10,11 +10,7 @@ class HomePage extends Component {
               <SideBar />
             </div>
             <div style={{ display: "flex", flexDirection: "column",marginLeft:100 }}>
-              <h1>teste</h1>
-              <h1>teste</h1>
-              <h1>teste</h1>
-              <h1>teste</h1>
-              <h1>teste</h1>
+          
             </div>
           </div>
         );
